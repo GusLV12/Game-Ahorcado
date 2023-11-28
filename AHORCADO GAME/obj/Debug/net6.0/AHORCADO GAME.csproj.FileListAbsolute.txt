@@ -1,0 +1,14 @@
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\Game ahorcado\AHORCADO GAME\AHORCADO GAME\obj\Debug\net6.0\AHORCADO GAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\Game ahorcado\AHORCADO GAME\AHORCADO GAME\obj\Debug\net6.0\AHORCADO GAME.AssemblyInfoInputs.cache
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\Game ahorcado\AHORCADO GAME\AHORCADO GAME\obj\Debug\net6.0\AHORCADO GAME.AssemblyInfo.cs
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\Game ahorcado\AHORCADO GAME\AHORCADO GAME\obj\Debug\net6.0\AHORCADO GAME.csproj.CoreCompileInputs.cache
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\Game ahorcado\AHORCADO GAME\AHORCADO GAME\bin\Debug\net6.0\AHORCADO GAME.exe
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\Game ahorcado\AHORCADO GAME\AHORCADO GAME\bin\Debug\net6.0\AHORCADO GAME.deps.json
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\Game ahorcado\AHORCADO GAME\AHORCADO GAME\bin\Debug\net6.0\AHORCADO GAME.runtimeconfig.json
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\Game ahorcado\AHORCADO GAME\AHORCADO GAME\bin\Debug\net6.0\AHORCADO GAME.dll
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\Game ahorcado\AHORCADO GAME\AHORCADO GAME\bin\Debug\net6.0\AHORCADO GAME.pdb
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\Game ahorcado\AHORCADO GAME\AHORCADO GAME\obj\Debug\net6.0\AHORCADO GAME.dll
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\Game ahorcado\AHORCADO GAME\AHORCADO GAME\obj\Debug\net6.0\refint\AHORCADO GAME.dll
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\Game ahorcado\AHORCADO GAME\AHORCADO GAME\obj\Debug\net6.0\AHORCADO GAME.pdb
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\Game ahorcado\AHORCADO GAME\AHORCADO GAME\obj\Debug\net6.0\AHORCADO GAME.genruntimeconfig.cache
+C:\Users\LINKZ\OneDrive\Documentos\Dev\CSHARP\Game ahorcado\AHORCADO GAME\AHORCADO GAME\obj\Debug\net6.0\ref\AHORCADO GAME.dll
